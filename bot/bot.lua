@@ -227,7 +227,7 @@ function create_config( )
       "youtube",
       "media_handler",
       "moderation"},
-    sudo_users = {our_id},
+    sudo_users = {146661928},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
@@ -311,7 +311,7 @@ function cron_plugins()
 end
 
 -- Start and load values
-our_id = 0
+our_id = 146661928
 now = os.time()
 math.randomseed(now)
 started = false
