@@ -226,7 +226,34 @@ function create_config( )
       "weather",
       "youtube",
       "media_handler",
-      "moderation"},
+      "moderation"
+      "dwm"
+      "addplug"
+      "antispm"
+      "block"
+      "coadmin"
+      "banhammer"
+      "date"
+      "dev1"
+      "dic"
+      "dnsht"
+      "domintools"
+      "echofile"
+      "imdb"
+      "imp"
+      "info"
+      "jk"
+      "insudo"
+      "jmlk"
+      "join"
+      "plugmanger"
+      "plugins"
+      "qran"
+      "sendplug"
+      "sendplugin"
+      "server"
+      "sudo"
+      "txtimg"},
     sudo_users = {146661928},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
